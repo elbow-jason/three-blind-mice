@@ -14,6 +14,8 @@ In a virtual env (or not if you are feeling a bit crazy) run:
 Run the Server
 --------------
 
+```$ python three-blind-mice.py```
+
 Go to [http://localhost:5000](http://localhost:5000) in your browser
 
 
