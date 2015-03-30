@@ -6,7 +6,7 @@ An example of limiting the number of the many in a one-to-many relationship usin
 Setup
 -----
 
-```$ git clone https://github.com/elbow-jason/three-blind-mice.git && cd three-blind-mice``
+```$ git clone https://github.com/elbow-jason/three-blind-mice.git && cd three-blind-mice```
 
 In a virtual env (or not if you are feeling a bit crazy) run:
 
