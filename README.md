@@ -24,4 +24,4 @@ Go to [http://localhost:5000](http://localhost:5000) in your browser
 Do it!
 ------
 
-Add a mouse 3 times and it works fine. Attempt to add a fourth and an custom exception is raised.
+Add a mouse 3 times and it works fine. Attempt to add a fourth and a custom exception is raised.
